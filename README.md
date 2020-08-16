@@ -1,2 +1,2 @@
-# rainfall
-rainfall with day and night images
+# p5.play-boilerplate
+Boiler plate for p5.play
